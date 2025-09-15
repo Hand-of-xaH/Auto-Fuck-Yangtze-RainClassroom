@@ -718,5 +718,23 @@
         "student": "王星凯",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1508315061524474496"
+    },
+    {
+        "id": "1510423455551230848",
+        "title": "热工基础",
+        "name": "热工基础",
+        "time": "2025-09-15 00:02:22",
+        "student": "王星凯",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1510423455551230848"
+    },
+    {
+        "id": "1510428438744835456",
+        "title": "电工与电子技术A",
+        "name": "电工与电子技术A",
+        "time": "2025-09-15 00:02:23",
+        "student": "王星凯",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1510428438744835456"
     }
 ]
