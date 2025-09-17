@@ -826,5 +826,23 @@
         "student": "王星凯",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1512061744343211648"
+    },
+    {
+        "id": "1512053182552428160",
+        "title": "工程测试技术与信息处理",
+        "name": "工程测试技术与信息处理",
+        "time": "2025-09-17 06:27:58",
+        "student": "王星凯",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1512053182552428160"
+    },
+    {
+        "id": "1512061744343211648",
+        "title": "车工A 2025",
+        "name": "车工A 2025",
+        "time": "2025-09-17 06:28:00",
+        "student": "王星凯",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1512061744343211648"
     }
 ]
