@@ -1,5 +1,6 @@
 openai
-requests
-websocket-client
+opencv-python
 numpy
-easyocr
+requests
+paddleocr
+websocket-client

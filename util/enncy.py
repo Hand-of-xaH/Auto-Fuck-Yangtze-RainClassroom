@@ -1,6 +1,5 @@
 # 言溪题库
 import requests
-
 from config import enncy_key
 from util.ocr import ocr_form_url_image
 
