@@ -1222,5 +1222,23 @@
         "student": "王星凯",
         "status": "签到成功",
         "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1527883795863980672"
+    },
+    {
+        "id": "1528001274770621568",
+        "title": "工程材料及成形技术基础",
+        "name": "工程材料及成形技术基础",
+        "time": "2025-10-09 06:02:15",
+        "student": "王星凯",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1528001274770621568"
+    },
+    {
+        "id": "1527883795863980672",
+        "title": "电工与电子技术A",
+        "name": "电工与电子技术A",
+        "time": "2025-10-09 06:02:16",
+        "student": "王星凯",
+        "status": "签到成功",
+        "url": "https://changjiang.yuketang.cn/m/v2/lesson/student/1527883795863980672"
     }
 ]
