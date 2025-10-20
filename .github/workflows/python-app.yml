@@ -28,8 +28,6 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-#          pip install paddleocr paddlepaddle requests opencv-python
-
 
       - name: Run script
         run: python start.py
